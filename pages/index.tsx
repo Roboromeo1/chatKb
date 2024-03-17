@@ -101,10 +101,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Chatbot UI</title>
+        <title>KB BOT</title>
         <meta
           name="description"
-          content="A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS."
+          content="Embark on a journey to master the art of programming across a wide array of languages with KB Cloud Tech. Our unique combination of guided learning, practical hands-on experience, and expert mentoring is designed to offer an enjoyable and efficient path to mastering coding skills. Experience 'Easy Learning For Life' and unlock the potential of technology at your fingertips."
         />
         <meta
           name="viewport"

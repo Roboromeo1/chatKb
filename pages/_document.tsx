@@ -8,6 +8,8 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
+      <script src="https://cdn.jsdelivr.net/npm/disable-inspect@1.0.1/dist/main.js"></script>
+      <script>disableInspect();</script>
     </Html>
   )
 }
