@@ -80,7 +80,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm KB Bot, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `Hi there! I'm KB Bot, an AI assistant. I can help you with a variety of tasks such as answering questions, providing information, and assisting with specific tasks. Please note that while I strive to provide accurate and up-to-date information, there might be instances where the provided information may not be as accurate or current. How can I assist you today?`
       }
     ]);
   };
@@ -93,7 +93,7 @@ export default function Home() {
     setMessages([
       {
         role: "assistant",
-        content: `Hi there! I'm KB Bot, an AI assistant. I can help you with things like answering questions, providing information, and helping with tasks. How can I help you?`
+        content: `Hi there! I'm KB Bot, an AI assistant. I can help you with a variety of tasks such as answering questions, providing information, and assisting with specific tasks. Please note that while I strive to provide accurate and up-to-date information, there might be instances where the provided information may not be as accurate or current. How can I assist you today?`
       }
     ]);
   }, []);
