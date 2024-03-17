@@ -13,8 +13,8 @@ export const ChatInput: FC<Props> = ({ onSend }) => {
 
   const handleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
     const value = e.target.value;
-    if (value.length > 4000) {
-      alert("Message limit is 4000 characters");
+    if (value.length > 30000) {
+      alert("Message limit is 30000 characters");
       return;
     }
 
